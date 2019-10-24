@@ -1,0 +1,6 @@
+db: proj
+1.projectdetail
+2.user
+3.chart
+4.paragraghs
+5.bugdetail
